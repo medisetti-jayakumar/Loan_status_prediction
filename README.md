@@ -59,9 +59,8 @@ Input page:
     the result is < 1 i.e Charged-off
     The result is >= 1 i.e Fully-paid 
 If the result as Charged off:
-![Alt text](<Flask App/image_folder/Screenshot 2024-01-06 235837.png>)
 
-with background image![Alt text](<Flask App/image_folder/Screenshot 2024-01-07 000627.png>)
+![Alt text](<Flask App/image_folder/Screenshot 2024-01-07 000627.png>)
 
 If the result is fully-paid, then it looks like:
 ![Alt text](<Flask App/image_folder/Screenshot 2024-01-07 001922.png>)
